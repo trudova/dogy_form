@@ -75,7 +75,7 @@ handleSubmit=(e)=>{
 
               <article className='list'>
                   <h1 className='list'> Information about your dog</h1>
-                  <div>
+                  <div className='list'>
                 {this.state.info}
                   </div>
               </article>
