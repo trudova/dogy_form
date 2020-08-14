@@ -30,4 +30,6 @@ button{
   border-radius: 50%;
   border: double;
 background-color: rgb(109, 5, 5);
+font-size: larger;
+color: white;
 }
