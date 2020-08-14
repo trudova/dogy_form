@@ -73,8 +73,8 @@ handleSubmit=(e)=>{
 </form>
               </article>
 
-              <article>
-                  <h1> Information about your dog</h1>
+              <article className='list'>
+                  <h1 className='list'> Information about your dog</h1>
                   <div>
                 {this.state.info}
                   </div>
